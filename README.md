@@ -59,8 +59,8 @@ previsaoEmissoesN2OPython/
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/trabalhoMozartv3.git
-cd trabalhoMozartv3
+git clone https://github.com/joaopamarall/previsaoEmissoesN2OPython.git
+cd previsaoEmissoesN2OPython
 ```
 
 2. Instale as dependências
