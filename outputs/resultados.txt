@@ -1,0 +1,4 @@
+Baseline MSE: 39.70
+Random Forest MSE: 8.14
+Random Forest R²: 0.7921
+Ganho sobre o baseline: 79.49%
